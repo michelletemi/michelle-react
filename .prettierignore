@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Production builds
+build/
+dist/
+
+# Generated files
+coverage/
+*.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package lock files (optional - uncomment if you don't want to format them)
+# package-lock.json
+# yarn.lock
